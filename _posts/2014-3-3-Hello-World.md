@@ -3,6 +3,7 @@ layout: post
 title: 주니어 개발자의 코드개선 프로젝트 - 1
 ---
 
+
 안녕하세요. **티켓예약개발팀**의 막내, 주니어 개발자 배성민 입니다! 🖐
 
 입사한지 반년 정도 되었고 이제 막 업무에 적응해가고 있습니다.
@@ -20,7 +21,7 @@ MVC 패턴의 페이지였고 특정 기간별로 다른 영역이 노출되는 
 
 세상에나. “**각 페이지**"마다 아래와 같이 날짜를 세팅하고 있었습니다.
 
-![상상도못한정체.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93b138fa-8ace-4f3a-b593-3f1c18726035/상상도못한정체.jpg)
+https://flossy-whale-489.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F93b138fa-8ace-4f3a-b593-3f1c18726035%2F%EC%83%81%EC%83%81%EB%8F%84%EB%AA%BB%ED%95%9C%EC%A0%95%EC%B2%B4.jpg?table=block&id=984aa841-ad4c-49ff-bf7f-e4db298f4b10&spaceId=63f90e56-9abb-4aa3-aa1d-8c104549bb43&width=670&userId=&cache=v2
 
 ---
 
