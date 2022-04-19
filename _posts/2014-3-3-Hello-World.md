@@ -21,8 +21,7 @@ MVC 패턴의 페이지였고 특정 기간별로 다른 영역이 노출되는 
 
 세상에나. “**각 페이지**"마다 아래와 같이 날짜를 세팅하고 있었습니다.
 
-avatar: https://flossy-whale-489.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F93b138fa-8ace-4f3a-b593-3f1c18726035%2F%EC%83%81%EC%83%81%EB%8F%84%EB%AA%BB%ED%95%9C%EC%A0%95%EC%B2%B4.jpg?table=block&id=984aa841-ad4c-49ff-bf7f-e4db298f4b10&spaceId=63f90e56-9abb-4aa3-aa1d-8c104549bb43&width=670&userId=&cache=v2
-
+vatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 ---
 
 ```csharp
@@ -221,4 +220,4 @@ else // 투표 진행
 
 별것 없는 작업이었지만 이런 식으로 코드를 개선해나가면 시간이 지난 후엔 유지 보수에 들어가는 리소스가 줄어들 것이고, 남는 공수를 활용하여 다른 작업 시 퀄리티가 더욱 높아질 수 있을 거라 생각합니다.
 
-![l1ilfO33.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09c46b77-cec8-4260-9a30-d5eafc829562/l1ilfO33.jpg)
+vatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
