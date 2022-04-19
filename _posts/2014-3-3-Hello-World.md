@@ -3,9 +3,6 @@ layout: post
 title: 주니어 개발자의 코드개선 프로젝트 - 1
 ---
 
-
-
-
 안녕하세요. **티켓예약개발팀**의 막내, 주니어 개발자 배성민 입니다! 🖐
 
 입사한지 반년 정도 되었고 이제 막 업무에 적응해가고 있습니다.
@@ -23,7 +20,7 @@ MVC 패턴의 페이지였고 특정 기간별로 다른 영역이 노출되는 
 
 세상에나. “**각 페이지**"마다 아래와 같이 날짜를 세팅하고 있었습니다.
 
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 ---
 
 ```csharp
@@ -222,4 +219,3 @@ else // 투표 진행
 
 별것 없는 작업이었지만 이런 식으로 코드를 개선해나가면 시간이 지난 후엔 유지 보수에 들어가는 리소스가 줄어들 것이고, 남는 공수를 활용하여 다른 작업 시 퀄리티가 더욱 높아질 수 있을 거라 생각합니다.
 
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
